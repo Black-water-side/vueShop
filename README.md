@@ -25,7 +25,7 @@ Using the idea of separation of front and back -end
   
 * 克隆项目到本地  
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;git clone https://github.com/Black-water-side/chat_online.git  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;git clone https://github.com/Black-water-side/vue_shop.git
   
 * 安装依赖  
   
