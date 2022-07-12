@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[]
+	url = git@github.com:Black-water-side/https://github.com/Black-water-side/vue_shop.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
