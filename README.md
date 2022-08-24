@@ -15,8 +15,8 @@ Using the idea of separation of front and back -end
    
 * axios  
   
-环境  
-  
+环境(仅针对个人来说)
+
 * node v16.14.0  
   
 * npm v8.3.1  
